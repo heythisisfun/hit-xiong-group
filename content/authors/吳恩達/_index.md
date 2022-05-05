@@ -1,29 +1,29 @@
 ---
 # Display name
-title: 吳恩達
+title: XingYu Wei
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - XingYu Wei
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Harbin Insitute of Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Composites honycomb
+  - Computational Mechanics
+  - Laminates
 
 education:
   courses:
@@ -66,8 +66,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Phd Students
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
