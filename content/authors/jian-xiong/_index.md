@@ -1,6 +1,7 @@
 ---
 title: Jian Xiong
 role: Professor
+avatar_filename: jian-xiong.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
