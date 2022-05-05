@@ -23,7 +23,7 @@ content:
     - Visitors
     - Alumni
     - PhD Students
-    -Master Students
+    - Master Students
 design:
   show_interests: false
   show_role: true
