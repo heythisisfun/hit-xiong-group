@@ -15,8 +15,8 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: jx@hit.edu.cn
+  phone: 0451-86402376
   address:
     street: Building 2C YiKuang Street
     city: Harbin
@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '45.7366'
     longitude: '126.6320'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Enter Building 2C 
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
@@ -54,4 +54,4 @@ design:
   columns: '1'
 ---
 
-If you are 
+If you are interested in our research, please feel free to contact us.
