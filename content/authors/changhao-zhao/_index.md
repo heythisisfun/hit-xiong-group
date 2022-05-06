@@ -23,8 +23,8 @@ education:
       institution: Harbin Institue of Technology
       year: 2021
     - course: BSeng in Mechanical Engineering
-      institution: Massachusetts Institute of Technology
-      year: 2017-2021
+      institution: Harbin Engineering Universuty
+      year: 2017
 email: ""
 superuser: true
 user_groups:
