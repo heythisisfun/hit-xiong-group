@@ -26,7 +26,7 @@ education:
     - course: MEng in Mechanical Engineering
       institution: Harbin Institute of Technology
       year: 2006
-    - course: BSeng in Mechanical Engineering
+    - course: BEng in Mechanical Engineering
       institution: Harbin Engineering University
       year: 2002
 email: ""
