@@ -22,7 +22,7 @@ education:
     - course: MEng in Mechanical Engineering
       institution: Harbin Institue of Technology
       year: 2021
-    - course: BSeng in Mechanical Engineering
+    - course: BEng in Mechanical Engineering
       institution: Harbin Engineering Universuty
       year: 2017
 email: ""
