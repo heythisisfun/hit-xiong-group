@@ -4,36 +4,27 @@ role: Master Students
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Composite Space Structure
+  - Computational Mechanics
+  - Lightweight Design
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
+    link: mailto:changhao.zhao@stu.hit.edu.cn
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://twitter.com/JACK21330798
 organizations:
-  - name: Stanford University
+  - name: Harbin Institue of Technology
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: MEng in Mechanical Engineering
+      institution: Harbin Institue of Technology
+      year: 2021
+    - course: BSeng in Mechanical Engineering
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2017-2021
 email: ""
 superuser: true
 user_groups:
@@ -41,6 +32,4 @@ user_groups:
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ChangHao Zhao is a master student from Xiong's research group, Center for Composite Materials and Structures. His research interests include CFRP space structures such as rocket engine frames, space truss, and service module structures. He is now a part of an ongoing project focusing on a rocket engine frame, which intends to upgrade the frame with CFRP to increase the efficiency of the rocket engine.
