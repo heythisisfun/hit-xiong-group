@@ -1,6 +1,7 @@
 ---
 title: Jian Xiong
-role: Professor
+role: Full Professor
+Humboldt Research Fellow
 avatar_filename: jian-xiong.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -21,13 +22,13 @@ organizations:
 education:
   courses:
     - course: PhD in Mechanical Engineering
-      institution: Harbin Institute of Technology
+      institution: Harbin Institute of Technology,China
       year: 2008
     - course: MEng in Mechanical Engineering
-      institution: Harbin Institute of Technology
+      institution: Harbin Institute of Technology,China
       year: 2006
     - course: BEng in Mechanical Engineering
-      institution: Harbin Engineering University
+      institution: Harbin Engineering University,China
       year: 2002
 email: ""
 superuser: true
