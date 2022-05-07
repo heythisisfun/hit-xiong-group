@@ -1,5 +1,5 @@
 ---
-title: ZhiBin Lin
+title: ZhiBin Li
 role: PhD
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
