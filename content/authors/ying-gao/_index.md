@@ -1,5 +1,5 @@
 ---
-title: YIng Gao
+title: Ying Gao
 role: PhD
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
